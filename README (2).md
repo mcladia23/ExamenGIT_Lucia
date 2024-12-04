@@ -8,7 +8,7 @@ Mi nombre es Enrique Martínez
 
 ## Objetivo
 Crearemos una web para el instituto [IES Pablo Picasso](https://fpiespablopicasso.es/centro/). :school:
-![Imagen Pablo Picasso](c:\Users\Alumnado1DAM\Documents\ExamenGIT_Lucia\ExamenGit2425\ImagenPicasso.jpg)
+![Imagen Pablo Picasso](https://fpiespablopicasso.es/wp-content/uploads/2022/03/LOGOTIPO-IES-PABLO-PICASSO-texto-morado.png)
 
 ## Ejemplos
 Para crear un repositorio tendré que utilizar el comando 
