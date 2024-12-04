@@ -9,7 +9,8 @@ de enseñanzas profesionales de Técnico en Sistemas Microinformáticos y Redes 
 Técnico Superior de Desarrollo de Aplicaciones Multiplataforma, ambos en modalidades 
 ordinaria y Dual.”
 ![Imagen Pablo Picasso ](https://fpiespablopicasso.es/wp-content/uploads/2022/03/LOGOTIPO-IES-PABLO-PICASSO-texto-morado.png)
-
+_“El periodo de vacaciones de navidad comenzará el 20 de 
+diciembre hasta el 8 de enero”_
 
 
 ### Algunas de las cosas que tendré que hacer serán
