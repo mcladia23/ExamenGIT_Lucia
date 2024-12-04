@@ -8,6 +8,9 @@ En la actualidad, el IES Pablo Picasso acoge en torno a 750 alumnos escolarizado
 de enseñanzas profesionales de Técnico en Sistemas Microinformáticos y Redes y de 
 Técnico Superior de Desarrollo de Aplicaciones Multiplataforma, ambos en modalidades 
 ordinaria y Dual.”
+![Imagen Pablo Picasso ](https://fpiespablopicasso.es/wp-content/uploads/2022/03/LOGOTIPO-IES-PABLO-PICASSO-texto-morado.png)
+
+
 
 ### Algunas de las cosas que tendré que hacer serán
 - Crear repositorios locales
